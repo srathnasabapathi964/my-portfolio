@@ -45,6 +45,6 @@ npm start
 ```
 
 ## 📬 Contact Me
-- 📧 Email: your@email.com
-- 💼 LinkedIn: linkedin.com/in/yourprofile
+- 📧 Email: srathnasabapathi964@gmail.com
+- 💼 LinkedIn: linkedin.com/in/srathnasabapathi123
 - 🐙 GitHub: github.com/srathnasabapathi964
