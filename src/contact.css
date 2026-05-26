@@ -1,0 +1,34 @@
+.contact {
+  padding: 100px 50px;
+  text-align: center;
+}
+
+.contact-description {
+  font-size: 16px;
+  color: #aaa;
+  max-width: 500px;
+  margin: 0 auto 50px auto;
+  line-height: 1.8;
+}
+
+.contact-links {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.contact-btn {
+  padding: 15px 30px;
+  border: 2px solid #00ff88;
+  color: #00ff88;
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 16px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.contact-btn:hover {
+  background-color: #00ff88;
+  color: #0a0a0a;
+}
