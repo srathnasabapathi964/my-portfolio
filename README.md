@@ -5,7 +5,7 @@ Features a clean dark theme with smooth animations and a fully
 responsive design that works on all devices.
 
 ## 🌐 Live Demo
-[👉 Click here to view my portfolio]([(https://srathnasabapathiportfolio.netlify.app/)])
+[👉 Click here to view my portfolio](https://srathnasabapathiportfolio.netlify.app/)
 
 ## ✨ Features
 - 🎨 Modern dark theme with neon green accents
